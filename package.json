@@ -13,9 +13,9 @@
   },
   "devDependencies": {
     "better-assert": "~1.0.1",
-    "commander": "^2.4.0",
+    "commander": "~2.16.0",
     "humanize-number": "0.0.1",
-    "mocha": "^3.5.3",
+    "mocha": "^5.2.0",
     "should": "^11.2.1"
   },
   "keywords": [
