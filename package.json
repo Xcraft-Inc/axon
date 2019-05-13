@@ -9,7 +9,7 @@
     "escape-regexp": "0.0.1",
     "amp-message": "~0.1.1",
     "amp": "~0.3.1",
-    "xcraft-core-transport": "^1.1.0"
+    "xcraft-core-transport": "^2.0.0"
   },
   "devDependencies": {
     "better-assert": "~1.0.1",
