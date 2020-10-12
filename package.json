@@ -7,8 +7,8 @@
     "debug": "*",
     "configurable": "0.0.1",
     "escape-regexp": "0.0.1",
-    "amp-message": "~0.1.1",
-    "amp": "~0.3.1",
+    "xcraft-amp-message": "^0.2.0",
+    "xcraft-amp": "^0.4.0",
     "xcraft-core-transport": "^3.0.0"
   },
   "devDependencies": {
@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/visionmedia/axon.git"
+    "url": "https://github.com/Xcraft-Inc/axon.git"
   },
   "scripts": {
     "test": "make test"
