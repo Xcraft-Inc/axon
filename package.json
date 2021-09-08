@@ -33,10 +33,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Xcraft-Inc/axon.git"
+    "url": "git+https://github.com/Xcraft-Inc/axon.git"
   },
   "scripts": {
     "test": "make test"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Xcraft-Inc/axon/issues"
+  },
+  "homepage": "https://github.com/Xcraft-Inc/axon#readme",
+  "main": "index.js"
 }
