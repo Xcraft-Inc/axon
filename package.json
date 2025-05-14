@@ -16,8 +16,8 @@
     "better-assert": "~1.0.1",
     "commander": "~2.16.0",
     "humanize-number": "0.0.1",
-    "mocha": "^5.2.0",
-    "should": "^11.2.1"
+    "mocha": "^11.2.2",
+    "should": "^13.2.3"
   },
   "keywords": [
     "zmq",
