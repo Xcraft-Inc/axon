@@ -3,6 +3,9 @@
   "description": "High-level messaging & socket patterns implemented in pure js",
   "version": "2.5.3",
   "author": "TJ Holowaychuk <tj@vision-media.ca>",
+  "contributors": [
+    "Mathieu Schroeter <schroeter@epsitec.ch>"
+  ],
   "dependencies": {
     "debug": "*",
     "configurable": "0.0.1",
